@@ -35,7 +35,7 @@ const Teacher = () => {
 
        <div className="flex flex-col gap-5 ">
         <p className="text-2xl font-semibold">Muelle</p>
-        <img src="/assets/vista-aerea.png" alt="Camping Field" style={{ borderRadius: '20px'}}/>
+        <img src="/assets/Vista-aerea.png" alt="Camping Field" style={{ borderRadius: '20px'}}/>
           <p className="text-2xl font-semibold">Vehiculos</p>
           <div className="flex items-center gap-2">
             <img src="/assets/Helicoptero.png" alt="Camping Field" style={{ borderRadius: '20px'}}/>
