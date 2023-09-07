@@ -43,7 +43,7 @@ export default function Banner() {
                 </a>
             </div>
             <div className="flex flex-1 justify-end">
-                <button type="button" className="-m-3 p-3 focus-visible:outline-offset-[-4px]">
+                <button type="button" className="-m-3 p-3 focus-visible:outline-offset-[-4px]" style={{ marginBottom: '10px' }}>
                     <span className="sr-only">Dismiss</span>
                     <XMarkIcon className="h-5 w-5 text-gray-900" aria-hidden="true" />
                 </button>

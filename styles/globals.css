@@ -5,3 +5,11 @@
 *{
     font-family: 'Clash Display', sans-serif;
 }
+
+.DivConFondo {
+    background-image: url("/assets/Hotel.png"); /* Ruta relativa a la carpeta "public" */
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el div */
+    /* Otras propiedades de estilo según tus preferencias */
+     /* Puedes ajustar la altura según tus necesidades */
+
+  }
