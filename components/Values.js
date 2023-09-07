@@ -19,8 +19,7 @@ const Values = () => {
           {/* <img src="/assets/v1.svg" alt="v1" /> */}
           <p className="text-2xl font-semibold">Compromiso Ambiental</p>
           <p className="text-gray-500 text-center">
-            In our school you will practice <br /> your speaking skills and just get <br /> a
-            lot of positive emotions!
+          Contamos con paneles solares <br /> Planta de tratamiento y sistema de ahorro de <br />  estos recursos Convirtiendo así un resort eco turístico en edificicacion eficiente <br /> y sostenible.
           </p>
         </div>
         <div className="flex flex-col gap-5 items-center">
@@ -30,8 +29,8 @@ const Values = () => {
 
           <p className="text-2xl font-semibold">Control de Calidad</p>
           <p className="text-gray-500 text-center">
-            In our school you will practice <br /> your speaking skills and just get <br /> a
-            lot of positive emotions!
+          Una construcción sostenible para abasteces y sastisfacer las necesidades sin poner en riesgo la capacidad del medio como es el uso de madera 
+bajo costo requiere poca energía y herramientas sencillas para su produccion
           </p>
         </div> <div className="flex flex-col gap-5 items-center">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#1e40af" class="w-20 h-20">
@@ -41,8 +40,7 @@ const Values = () => {
 
           <p className="text-2xl font-semibold">Tecnología de la Construcción</p>
           <p className="text-gray-500 text-center">
-            In our school you will practice <br /> your speaking skills and just get <br /> a
-            lot of positive emotions!
+          Paneles solares con módulos fotovoltaicos individuales que captan la energía que proporciona el sol convirtiéndola en electricidad
           </p>
         </div>
       </div>
