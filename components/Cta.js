@@ -4,7 +4,7 @@ const Cta = () => {
   return (
     <div className='container mx-auto flex flex-col gap-5 items-center justify-center py-20'>
             <p className=' text-xl md:text-2xl lg:text-4xl font-medium text-center'>Obtén más Información </p>
-            <p className='text-base sm:text-lg lg:text-2xl font-medium text-center'>mandanos tu email</p>
+            <p className='text-base sm:text-lg lg:text-2xl font-medium text-center'>Mandanos tu email</p>
             <div className="flex flex-col lg:flex-row gap-3 lg:gap-10 items-center mt-5">
                 <input type="text" className='px-5 py-5 rounded-full w-72 lg:w-96 outline-none bg-[#f8fafe]' placeholder='Ingresa un email' />
                 <button className='btn btn-sm lg:btn-lg bg-[#1e3a8a] btn-lg rounded-full border-none'>Enviar</button>

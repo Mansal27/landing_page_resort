@@ -19,8 +19,8 @@ const Footer = () => {
         </div>
         <div className="flex flex-col items-center lg:items-start gap-5">
           <p className="text-xl font-medium">Legal</p>
-          <p className="text-base">Terms & Conditions</p>
-          <p className="text-base">Privacy policy</p>
+          <p className="text-base">Terminos y condiciones</p>
+          <p className="text-base">Politicas de Privacidad</p>
         </div>
         <div className="flex items-center gap-5">
                 <BsFacebook className="text-3xl text-gray-500"/>
