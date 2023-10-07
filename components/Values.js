@@ -7,7 +7,7 @@ const Values = () => {
         ¿Por qué elegirnos?
       </p>
       <p className=" text-3xl lg:text-5xl font-semibold text-gray-500 text-center mt-3">
-        Nuestros Valores
+        Nuestras Ventajas
       </p>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-16 py-20">
         <div className="flex flex-col gap-5 items-center">
@@ -19,7 +19,7 @@ const Values = () => {
           {/* <img src="/assets/v1.svg" alt="v1" /> */}
           <p className="text-2xl font-semibold">Compromiso Ambiental</p>
           <p className="text-gray-500 text-center">
-          Contamos con paneles solares <br /> Planta de tratamiento y sistema de ahorro de <br />  estos recursos Convirtiendo así un resort eco turístico en edificicacion eficiente <br /> y sostenible.
+          Buscamos contribuir a la reduccion de la huella de carbono con nuestro servicio de transporte compartido
           </p>
         </div>
         <div className="flex flex-col gap-5 items-center">
@@ -27,20 +27,21 @@ const Values = () => {
   <path fill-rule="evenodd" d="M8.603 3.799A4.49 4.49 0 0112 2.25c1.357 0 2.573.6 3.397 1.549a4.49 4.49 0 013.498 1.307 4.491 4.491 0 011.307 3.497A4.49 4.49 0 0121.75 12a4.49 4.49 0 01-1.549 3.397 4.491 4.491 0 01-1.307 3.497 4.491 4.491 0 01-3.497 1.307A4.49 4.49 0 0112 21.75a4.49 4.49 0 01-3.397-1.549 4.49 4.49 0 01-3.498-1.306 4.491 4.491 0 01-1.307-3.498A4.49 4.49 0 012.25 12c0-1.357.6-2.573 1.549-3.397a4.49 4.49 0 011.307-3.497 4.49 4.49 0 013.497-1.307zm7.007 6.387a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z" clip-rule="evenodd" />
 </svg>
 
-          <p className="text-2xl font-semibold">Control de Calidad</p>
+          <p className="text-2xl font-semibold">Seguridad</p>
           <p className="text-gray-500 text-center">
-          Una construcción sostenible para abasteces y sastisfacer las necesidades sin poner en riesgo la capacidad del medio como es el uso de madera 
-bajo costo requiere poca energía y herramientas sencillas para su produccion
+          Brindamos Seguridad a nuestros clientes con nuestra app
           </p>
         </div> <div className="flex flex-col gap-5 items-center">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#1e40af" class="w-20 h-20">
-  <path d="M19.006 3.705a.75.75 0 00-.512-1.41L6 6.838V3a.75.75 0 00-.75-.75h-1.5A.75.75 0 003 3v4.93l-1.006.365a.75.75 0 00.512 1.41l16.5-6z" />
-  <path fill-rule="evenodd" d="M3.019 11.115L18 5.667V9.09l4.006 1.456a.75.75 0 11-.512 1.41l-.494-.18v8.475h.75a.75.75 0 010 1.5H2.25a.75.75 0 010-1.5H3v-9.129l.019-.006zM18 20.25v-9.565l1.5.545v9.02H18zm-9-6a.75.75 0 00-.75.75v4.5c0 .414.336.75.75.75h3a.75.75 0 00.75-.75V15a.75.75 0 00-.75-.75H9z" clip-rule="evenodd" />
+  
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#1e40af" class="w-20 h-20">
+  <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z" />
 </svg>
 
-          <p className="text-2xl font-semibold">Tecnología de la Construcción</p>
+
+          <p className="text-2xl font-semibold">Usuarios Verificados</p>
           <p className="text-gray-500 text-center">
-          Paneles solares con módulos fotovoltaicos individuales que captan la energía que proporciona el sol convirtiéndola en electricidad
+          Todos los Usuarios pasan por una verificación por cédula de identificación. 
           </p>
         </div>
       </div>

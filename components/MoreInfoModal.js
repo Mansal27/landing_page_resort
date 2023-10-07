@@ -8,24 +8,16 @@ const MoreInfoModal = () => {
       des:'Canales de difusión autorizados o redes sociales verificadas.'
     },
     {
-      title:'Habitaciones y tarifas',
-      des:'Precios Varían según cantidad de personas.'
-    },
-    {
       title:'¿Dónde estamos ubicados?',
-      des:'Estamos ubicados en Cayo de Perlas RAACS.'
+      des:'Estamos ubicados en Play Store y App Store.'
     },
     {
-      title:'Eventos Privados',
-      des:'Eventos privados con much seguridad y confort sobre todo para esos eventos especiales.'
+      title:'¿Cómo contratar?',
+      des:'Desde las aplicaciones oficiales de Subete Latam.'
     },
     {
-      title:'Acceso a Internet y TV por cable',
-      des:'Acceso a Internet y TV por cable en todas las habitaciones.'
-    },
-    {
-      title:'Transporte desde el aeropuerto',
-      des:'Transporte desde el aeropuerto hasta el hotel y viceversa.'
+      title:'¿Transporte de punto a punto?',
+      des:'Si hay gente que va a tu mismo destino, puedes compartir el viaje con ellos.'
     },
   ]
   return (
@@ -43,13 +35,13 @@ const MoreInfoModal = () => {
     <Disclosure key={i} >
         {({ open }) => (
           <div className='group'>
-            <Disclosure.Button className="flex flex-col group-hover:bg-[#06b6d4] group-focus:bg-[#22d3ee] w-full justify-between rounded-lg lg:rounded-full border border-gray-200 px-8 py-10 text-left text-sm font-medium  focus:outline-none ">
+            <Disclosure.Button className="flex flex-col group-hover:bg-[#1e3a8a] group-focus:bg-[#1e3a8a] w-full justify-between rounded-md border border-gray-200 px-8 py-10 text-left font-bold  focus:outline-none ">
               <div className="flex justify-between items-center w-full">
               <span className='group-hover:text-white  group-focus:text-white'>{inf.title}</span>
               <BsFillPlusCircleFill
                 className={`${
                   open ? 'rotate-180 transform' : ''
-                }  text-[#0e7490] text-2xl group-hover:text-white  group-focus:text-white `}
+                }  text[#1e3a8a] text-2xl group-hover:text-white  group-focus:text-white `}
               />
               </div>
            

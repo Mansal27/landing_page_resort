@@ -7,7 +7,7 @@ const Cta = () => {
             <p className='text-base sm:text-lg lg:text-2xl font-medium text-center'>mandanos tu email</p>
             <div className="flex flex-col lg:flex-row gap-3 lg:gap-10 items-center mt-5">
                 <input type="text" className='px-5 py-5 rounded-full w-72 lg:w-96 outline-none bg-[#f8fafe]' placeholder='Ingresa un email' />
-                <button className='btn btn-sm lg:btn-lg bg-[#0e7490] btn-lg rounded-full border-none'>Enviar</button>
+                <button className='btn btn-sm lg:btn-lg bg-[#1e3a8a] btn-lg rounded-full border-none'>Enviar</button>
             </div>
     </div>
   )

@@ -26,8 +26,8 @@ export default function Home() {
       <Banner />
       <Hero />
       <Values />
-      <Teacher />
-     {/*  <Student /> */}
+   {/*    <Teacher /> */}
+      <Student/>
       <MoreInfoModal />
       <Cta />
       <Footer />

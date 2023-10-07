@@ -4,7 +4,7 @@ const Teacher = () => {
   return (
     <div className="container mx-auto py-20">
       <strong><p className="text-base lg:text-xl font-medium text-gray-500 uppercase">
-       Luagres Especiales
+       Lugares Especiales
       </p></strong>
       <p className="text-3xl lg:text-5xl font-semibold text-gray-500  mt-3">
       Conoce Nuestros Lugares Especiales
